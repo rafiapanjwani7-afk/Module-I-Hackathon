@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.mybolg{
+    color: #7C4EE4;
+}
+.mybtn{
+    height: 39.97688293457031px;
+    width: 128px;
+    border-radius: 5.74px;
+    background-color:#7C4EE4 ;
+    color: #fff;
+}
+.myheader{
+    background-color: #7C4EE4;
+}
+.headerbtn{
+    background-color: white;
+    color: black;
+    border: none;
+}
+.cardbtn{
+    color: #7C4EE4;
+    border: 1px solid #7C4EE4;
+    border-radius: 5.6px;
+}
+.parent{
+    position: relative;
+}
+.myCard{
+    position: absolute;
+    bottom: -87px;
+    right: 0;
+}
